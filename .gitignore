@@ -1,0 +1,9 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+.DS_Store
+*.local
+
+# Local assistant tooling
+.codex/
